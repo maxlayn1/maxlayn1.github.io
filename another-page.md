@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## random other page idk if i want to use yet
 
 _yay_
 
