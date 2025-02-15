@@ -29,3 +29,7 @@ idk yet
 # maybe add a cool img here idk?
 
 lkafdklfsdohk
+
+##### Credits
+
+maybe i should move theme credits here?
