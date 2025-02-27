@@ -2,17 +2,16 @@
 layout: default
 ---
 
-[not sure if i want to use another page or not yet](./another-page.html).
+[I think I will add another page with a catalog of my favorite movies and tv shows](./another-page.html).
 
 
 # About me
 
-blah blah blah blahblah blah blah blah blah blahblah blahblah blah blah blahblah blah
-blah blah blah blah blah blahblah blah blah blah blah blah blah blah blah blah 
+Hello my name is Maxim! To tell you a bit about myself, I've been programming in highschool and college for a couple of years. I am currently attending Southern Illinois University Edwardsville. Besides programming, I enjoy weightlifting and watching movies with my friends. 
 
 # Projects
 
-idk yet
+I have a few simple ones but I'll add them later.
 
 ## Project 1
 
@@ -24,9 +23,9 @@ nothing yet
 
 # Education
 
-idk yet
+will add later
 
-# maybe add a cool img here idk?
+# will add a cool picture ive taken myself here at a later date
 
 lkafdklfsdohk
 

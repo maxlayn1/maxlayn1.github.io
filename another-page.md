@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## random other page idk if i want to use yet
+## I think I will add another page with a catalog of my favorite movies and tv shows
 
 _yay_
 
