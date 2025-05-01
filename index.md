@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[I think I will add another page with a catalog of my favorite movies and tv shows](./another-page.html).
+<!--[I think I will add another page with a catalog of my favorite movies and tv shows](./another-page.html).-->
 
 
 # About me
