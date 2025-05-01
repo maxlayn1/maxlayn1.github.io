@@ -40,9 +40,9 @@ Computer Organization and Architecture, Statistics for Applications, Linear Alge
 Discrete Mathematics, Ethical and Social Implications of Computing, Operating
 Systems, Software Engineering
 
-# will add a cool picture ive taken myself here at a later date
+# Some of my art!
 
-lkafdklfsdohk
+
 
 ##### Credits
 
