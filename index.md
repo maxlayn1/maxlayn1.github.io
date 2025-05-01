@@ -42,8 +42,8 @@ Systems, Software Engineering
 
 # Some of my art!
 
-[bike helmet art piece](assets/img/bike.png)
-[red metro art piece](assets/img/need.png)
+![bike helmet art piece](assets/img/bike.png)
+![red metro art piece](assets/img/need.png)
 
 ##### Credits
 
