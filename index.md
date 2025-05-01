@@ -24,6 +24,11 @@ Uses a locally run LLM to evaluate scraped business news headlines as either "po
 Full stack website offering information about various health supplement. Written in php and utilizes mySQL and phpAdmin for responsive web design and user authentication.
 [Github repo](https://github.com/maxlayn1/FINAL-PROJECT/tree/main)
 
+## Project 3
+
+Contributed to Dungeons and Dragons character stat sheet generator. Makes Github API call to pull character stat texts and parses them at runtime to avoid copyright issues. Utilizes Godot Mono (C# version of Godot) for application interface. Developed at eHacks 2025 in a group.
+[Github repo](https://github.com/Jaz2021/Bouncr)
+
 # Education
 
 will add later
