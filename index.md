@@ -13,18 +13,18 @@ Hello, my name is Maxim! To tell you a bit about myself, I've been programming i
 
 Various things that I've made:
 
-## Project 1
+## News Headline Sentiment Generator
 
 Uses a locally run LLM to evaluate scraped business news headlines as either "positive," "negative," or "neutral." Written in Python and utilizes LLMs, APIs, a webscraper, and unit testing with Pylance. Project is also containerized and uploaded to docker hub.<br>
 [Github repo](https://github.com/maxlayn1/CS325_Project1/tree/FINAL)<br>
 [Dockerhub image](https://hub.docker.com/r/maxlayn1/headline_sentiment_app)
 
-## Project 2
+## Fitness Supplement Informative Website
 
 Full stack website offering information about various health supplement. Written in php and utilizes mySQL and phpAdmin for responsive web design and user authentication.<br>
 [Github repo](https://github.com/maxlayn1/FINAL-PROJECT/tree/main)
 
-## Project 3
+## D&D Character Stat Sheet Generator App
 
 Contributed to Dungeons and Dragons character stat sheet generator. Makes Github API call to pull character stat texts and parses them at runtime to avoid copyright issues. Utilizes Godot Mono (C# version of Godot) for application interface. Developed at eHacks 2025 in a group.<br>
 [Github repo](https://github.com/Jaz2021/Bouncr)
