@@ -15,25 +15,25 @@ Various things that I've made:
 
 ## Project 1
 
-Uses a locally run LLM to evaluate scraped business news headlines as either "positive," "negative," or "neutral." Written in Python and utilizes LLMs, APIs, a webscraper, and unit testing with Pylance. Project is also containerized and uploaded to docker hub.<n>
-[Github repo](https://github.com/maxlayn1/CS325_Project1/tree/FINAL)<n>
+Uses a locally run LLM to evaluate scraped business news headlines as either "positive," "negative," or "neutral." Written in Python and utilizes LLMs, APIs, a webscraper, and unit testing with Pylance. Project is also containerized and uploaded to docker hub.<br>
+[Github repo](https://github.com/maxlayn1/CS325_Project1/tree/FINAL)<br>
 [Dockerhub image](https://hub.docker.com/r/maxlayn1/headline_sentiment_app)
 
 ## Project 2
 
-Full stack website offering information about various health supplement. Written in php and utilizes mySQL and phpAdmin for responsive web design and user authentication.<n>
+Full stack website offering information about various health supplement. Written in php and utilizes mySQL and phpAdmin for responsive web design and user authentication.<br>
 [Github repo](https://github.com/maxlayn1/FINAL-PROJECT/tree/main)
 
 ## Project 3
 
-Contributed to Dungeons and Dragons character stat sheet generator. Makes Github API call to pull character stat texts and parses them at runtime to avoid copyright issues. Utilizes Godot Mono (C# version of Godot) for application interface. Developed at eHacks 2025 in a group.<n>
+Contributed to Dungeons and Dragons character stat sheet generator. Makes Github API call to pull character stat texts and parses them at runtime to avoid copyright issues. Utilizes Godot Mono (C# version of Godot) for application interface. Developed at eHacks 2025 in a group.<br>
 [Github repo](https://github.com/Jaz2021/Bouncr)
 
 # Education
 
-Pursuing a bachelor's degree in Computer Science<n>
-Southern Illinois University at Edwardsville, Edwardsville, IL<n>
-Expected graduation date: May 2026<n>
+Pursuing a bachelor's degree in Computer Science<br>
+Southern Illinois University at Edwardsville, Edwardsville, IL<br>
+Expected graduation date: May 2026<br>
 Relevant Coursework: Concepts of Computer Science, Introduction to Computing I,
 Introduction to Computing II, Database and Web System Development, Introduction to
 Computer Organization and Architecture, Statistics for Applications, Linear Algebra I,
