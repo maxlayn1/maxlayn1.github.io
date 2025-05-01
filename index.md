@@ -7,7 +7,7 @@ layout: default
 
 # About me
 
-Hello, my name is Maxim! To tell you a bit about myself, I've been programming in highschool and college for a couple of years. I am currently attending Southern Illinois University Edwardsville. Besides programming, I enjoy weightlifting and watching movies with my friends. 
+Hello, my name is Maxim! To tell you a bit about myself, I've been programming in highschool and college for a couple of years. I am currently attending Southern Illinois University Edwardsville. Besides programming, I enjoy weightlifting, making art, and watching movies with my friends. 
 
 # Projects
 
@@ -33,7 +33,7 @@ Contributed to Dungeons and Dragons character stat sheet generator. Makes Github
 
 Pursuing a bachelor's degree in Computer Science<br><br>
 Southern Illinois University at Edwardsville, Edwardsville, IL<br><br>
-Expected graduation date: May 2026<br><br>
+Expected graduation date: May 2026 - a year ahead of schedule due to an accelerated course load<br><br>
 Relevant Coursework: Concepts of Computer Science, Introduction to Computing I,
 Introduction to Computing II, Database and Web System Development, Introduction to
 Computer Organization and Architecture, Statistics for Applications, Linear Algebra I,
