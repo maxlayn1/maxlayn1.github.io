@@ -21,7 +21,11 @@ sidebar:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/maxim-tikhonov-21ab24293/
-    
+
+  - name: Resume
+    icon: <i class="fas fa-file"></i>
+    link: /assets/RESUME_MARCH_2025.pdf
+
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
 # When running locally, we run into the following error —
 # GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
