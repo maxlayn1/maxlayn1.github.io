@@ -31,9 +31,9 @@ Contributed to Dungeons and Dragons character stat sheet generator. Makes Github
 
 # Education
 
-Pursuing a bachelor's degree in Computer Science<br>
-Southern Illinois University at Edwardsville, Edwardsville, IL<br>
-Expected graduation date: May 2026<br>
+Pursuing a bachelor's degree in Computer Science<br><br>
+Southern Illinois University at Edwardsville, Edwardsville, IL<br><br>
+Expected graduation date: May 2026<br><br>
 Relevant Coursework: Concepts of Computer Science, Introduction to Computing I,
 Introduction to Computing II, Database and Web System Development, Introduction to
 Computer Organization and Architecture, Statistics for Applications, Linear Algebra I,
